@@ -221,14 +221,14 @@ assignment-08
 
 # Evidencias
 
-![Aplicación funcionando](evidencias/app-domain.png)
+![Captura 0](evidencias/cap0.png)
 
-![ArgoCD funcionando](evidencias/argocd-domain.png)
+![Captura 1](evidencias/cap1.png)
 
-![DNS local](evidencias/hosts.png)
+![Captura 2](evidencias/cap2.png)
 
-![Pods del clúster](evidencias/pods.png)
+![Captura 3](evidencias/cap3.png)
 
-![Servicios del clúster](evidencias/services.png)
+![Captura 4](evidencias/cap4.png)
 
-![IngressRoute configurados](evidencias/ingressroute.png)
+![Captura 5](evidencias/cap5.png)
