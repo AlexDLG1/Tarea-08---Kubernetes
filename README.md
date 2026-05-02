@@ -221,12 +221,12 @@ assignment-08
 
 # Evidencias
 
-![Captura 1](evidencias/cap1.jpng)
+![Captura 1](evidencias/cap1.jpeg)
 
-![Captura 2](evidencias/cap2.jpng)
+![Captura 2](evidencias/cap2.jpeg)
 
-![Captura 3](evidencias/cap3.jpng)
+![Captura 3](evidencias/cap3.jpeg)
 
-![Captura 4](evidencias/cap4.jpng)
+![Captura 4](evidencias/cap4.jpeg)
 
-![Captura 5](evidencias/cap5.jpng)
+![Captura 5](evidencias/cap5.jpeg)
